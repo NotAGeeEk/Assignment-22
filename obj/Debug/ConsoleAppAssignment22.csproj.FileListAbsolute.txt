@@ -1,0 +1,8 @@
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\bin\Debug\ConsoleAppAssignment22.exe.config
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\bin\Debug\ConsoleAppAssignment22.exe
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\bin\Debug\ConsoleAppAssignment22.pdb
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\obj\Debug\ConsoleAppAssignment22.csproj.AssemblyReference.cache
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\obj\Debug\ConsoleAppAssignment22.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\obj\Debug\ConsoleAppAssignment22.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\obj\Debug\ConsoleAppAssignment22.exe
+D:\assignemt exercise\Assignment-22\ConsoleAppAssignment22\ConsoleAppAssignment22\obj\Debug\ConsoleAppAssignment22.pdb
